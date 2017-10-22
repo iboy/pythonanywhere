@@ -1,2 +1,2 @@
-# pythoneverywhere
-A repo to use with pythoneverywhere
+# pythonanywhere
+A repo to use with pythonanywhere
